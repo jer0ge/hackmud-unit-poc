@@ -2,7 +2,7 @@
   "name": "hackmud-unit-poc",
   "version": "1.0.0",
   "description": "test harness for hackmud scripts",
-  "main": "smol.js",
+  "main": "sample.js",
   "scripts": {
     "test": "./node_modules/.bin/mocha --reporter spec"
   },
